@@ -2,7 +2,7 @@ import json
 import os
 import sys
 
-from easydict import EasyDict as AttrDict
+from attrdict import AttrDict
 
 
 class Singleton(type):
